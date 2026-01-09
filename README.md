@@ -1,3 +1,10 @@
 # MIKA-Private-Cloud
 
-A self-hosted, zero-trust private cloud built on Raspberry Pi using WireGuard and Filebrowser, designed for secure data storage and AI training pipelines (MIKA).
+
+
+This project documents the design and implementation of a private, self-hosted cloud infrastructure prioritizing:
+
+Ownership of data
+Network-level security (VPN-first)
+Minimal third-party dependencies
+Direct filesystem access for AI training workloads
