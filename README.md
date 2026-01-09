@@ -79,5 +79,5 @@ Next milestones:
 
 ## 📜 License
 
-MIT (subject to change)
+MIT 
          
